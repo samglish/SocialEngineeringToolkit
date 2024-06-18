@@ -12,3 +12,6 @@ cd sites-enabled/
 ```terminal
 ls
 ```
+```terminal
+nano 000-default.conf
+```
