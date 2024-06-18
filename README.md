@@ -7,5 +7,8 @@ Social Engineering Toolkit
 cd /etc/
 ```
 ```terminal
-cd sites-enable/
+cd sites-enabled/
+```
+```terminal
+ls
 ```
