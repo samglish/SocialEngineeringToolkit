@@ -6,3 +6,6 @@ Social Engineering Toolkit
 ```terminal
 cd /etc/
 ```
+```terminal
+cd sites-enable/
+```
