@@ -1,6 +1,6 @@
 # SocialEngineeringToolkit
 Social Engineering Toolkit
-<img src="SE.png" width="70%">
+<img src="SE.png" width="20%">
 <hr>
 
 ```terminal
