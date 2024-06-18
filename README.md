@@ -1,7 +1,6 @@
 # SocialEngineeringToolkit
 Social Engineering Toolkit
-* TrustedSec
-* Python, open source and multiplatforme
+<img src="SE.png" width="70%">
 <hr>
 
 ```terminal
