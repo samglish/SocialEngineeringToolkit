@@ -35,8 +35,7 @@ Open and configure file
 nano 000-default.conf
 ```
 
-
-```markdown
+```terminal
     <VirtualHost *:80>
     # The ServerName directive sets the request scheme, hostname and port that
     # the server uses to identify itself. This is used when creating
@@ -63,4 +62,4 @@ nano 000-default.conf
 	#Include conf-available/serve-cgi-bin.conf
     </VirtualHost>
     # vim: syntax=apache ts=4 sw=4 sts=4 sr noet
-```
+    ```
