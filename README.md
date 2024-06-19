@@ -36,7 +36,6 @@ nano 000-default.conf
 ```
 
 ```bash
-<VirtualHost *:80>
 # The ServerName directive sets the request scheme, hostname and port that
 # the server uses to identify itself. This is used when creating
 # redirection URLs. In the context of virtual hosts, the ServerName
@@ -60,6 +59,5 @@ CustomLog ${APACHE_LOG_DIR}/access.log combined
 # following line enables the CGI configuration for this host only
 # after it has been globally disabled with "a2disconf".
 #Include conf-available/serve-cgi-bin.conf
-</VirtualHost>
 # vim: syntax=apache ts=4 sw=4 sts=4 sr noet
 ```
