@@ -1,6 +1,6 @@
 # SocialEngineeringToolkit
-   ## The Social-Engineer Toolkit is a product of TrustedSec.
-           Visit: https://www.trustedsec.com
+## The Social-Engineer Toolkit is a product of TrustedSec.
+Visit: https://www.trustedsec.com
 
 <img src="SE.png" width="30%">
 <hr>
