@@ -39,3 +39,9 @@ nano 000-default.conf
 </center>
 
 # Let's to launch social engeneering app
+1. Go  to Application (system linux)
+2. pentesting
+3. Outils d'exploitation
+4. Social engeneering
+5. Social engeneering toolkit
+
