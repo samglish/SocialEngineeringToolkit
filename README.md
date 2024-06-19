@@ -34,4 +34,4 @@ Open and configure file
 ```terminal
 nano 000-default.conf
 ```
-<img src="code.png" width="50%">
+<img src="code.png" width="100%">
