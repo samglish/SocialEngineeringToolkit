@@ -36,7 +36,7 @@ nano 000-default.conf
 ```
 
 ```
-<VirtualHost *:80>
+    <VirtualHost *:80>
 	# The ServerName directive sets the request scheme, hostname and port that
 	# the server uses to identify itself. This is used when creating
 	# redirection URLs. In the context of virtual hosts, the ServerName
